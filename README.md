@@ -106,6 +106,8 @@ C: 0.021560876239314918
 
 A histogram of transformed data (z) is plotted along with the fitted
 Gaussian curve using the estimated parameters.
+<img width="297" height="201" alt="Screenshot 2026-02-18 at 10 34 02 AM" src="https://github.com/user-attachments/assets/d5812fe1-148a-4196-93c9-fa3fa1f3d2a4" />
+
 
 ------------------------------------------------------------------------
 
@@ -120,5 +122,4 @@ Likelihood Estimation.
 
 ------------------------------------------------------------------------
 
-**Author:** Saihaj\
-**Roll Number:** 102303957
+
